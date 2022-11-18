@@ -1,7 +1,7 @@
 {
   "jdbcURL" : "jdbc:mysql://localhost:3306",
   "nameUser": "root",
-  "password": "Komar2643",
+  "password": "Ru!MbA%54TiR",
 
 
   "initDbSql": "./sql/init_db.sql",
